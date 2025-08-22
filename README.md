@@ -1,2 +1,1 @@
-# SQL-on-Colab
-SQL on Colab
+# SQL_Lab_Repository
